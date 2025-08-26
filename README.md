@@ -18,4 +18,8 @@ OSPF
 
 static routing/dynamic routing 
 
+DHCP
+DNS
+
+
 
